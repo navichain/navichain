@@ -1,0 +1,6 @@
+usr/local/bin/nc-qt usr/bin
+share/pixmaps/nc32.xpm usr/share/pixmaps
+share/pixmaps/nc16.xpm usr/share/pixmaps
+share/pixmaps/nc128.png usr/share/pixmaps
+debian/nc-qt.desktop usr/share/applications
+debian/nc-qt.protocol usr/share/kde4/services/

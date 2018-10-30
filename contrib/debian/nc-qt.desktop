@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Bitcoin Core
+Comment=Connect to the Nc P2P Network
+Exec=nc-qt %u
+Terminal=false
+Type=Application
+Icon=nc128
+MimeType=x-scheme-handler/nc;
+Categories=Office;Finance;
+StartupWMClass=Nc-qt
+Name[en_US]=nc-qt
