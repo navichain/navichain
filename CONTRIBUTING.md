@@ -1,3 +1,9 @@
+Change block reward
+===========================
+File: validation.cpp
+Lines: 1363 - 1377
+
+
 Contributing to Bitcoin Core
 ============================
 

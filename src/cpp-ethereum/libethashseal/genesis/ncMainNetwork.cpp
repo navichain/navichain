@@ -16,7 +16,7 @@
 */
 #include "../GenesisInfo.h"
 
-static dev::h256 const c_genesisStateRootNcMainNetwork("2ebd2f054ed409f4bc77921ce642517eb574470c01772dc26658d016a4ccc825");
+static dev::h256 const c_genesisStateRootNcMainNetwork("2ebd2f054ed409f4bc77921ce642517eb574470c01772dc26658d016a4ccc812");
 static std::string const c_genesisInfoNcMainNetwork = std::string() +
 R"E(
 {
@@ -48,7 +48,7 @@ R"E(
 		"author": "0x0000000000000000000000000000000000000000",
 		"timestamp": "0x00",
 		"parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
-		"extraData": "0x5174756d4d61696e4e6574c9987fd35877cdbbbb84ffeb5315ab1f86c21398c0",
+		"extraData": "4d61696e4e6574c9987fd35877cdbbbb84ffeb5315ab1f86c21398c0",
 		"gasLimit": "0x1388"
 	},
 	"accounts": {

@@ -88,7 +88,7 @@ If you would like to obtain a list with information on the peers you are connect
     eth: 61
   },
   clientVersion: 'Geth/v1.0.2-4591ae56/linux/go1.4.2',
-  host: '52.18.188.185',
+  host: '52.16.188.185',
   id: 'a979fb575495b8d6db44f750317d0f4622bf4c2aa3365d6af7c284339968eef29b69ad0dce72a4d8db5ebb4968de0e3bec910127f134779fbcb0cb6d3331163c',
   lastPing: 41,
   notes: {
@@ -166,7 +166,7 @@ If the above was succesfull we can see our new peer in the list:
     eth: 61
   },
   clientVersion: 'Geth/v1.0.2-4591ae56/linux/go1.4.2',
-  host: '52.18.188.185',
+  host: '52.16.188.185',
   id: 'a979fb575495b8d6db44f750317d0f4622bf4c2aa3365d6af7c284339968eef29b69ad0dce72a4d8db5ebb4968de0e3bec910127f134779fbcb0cb6d3331163c',
   lastPing: 41,
   notes: {
